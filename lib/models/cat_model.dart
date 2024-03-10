@@ -11,4 +11,8 @@ class CatModel {}
 
 // перед тем как запушить обязательно нужно стянуться
 
+// git checkout -b test_branch - создание новой ветки
+//  git checkout test_branch - переключение на существующую ветку test_branch
+// git switch test_branch - переключение на существующую ветку test_branch
+
 // qwe
